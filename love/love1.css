@@ -646,7 +646,7 @@ body{
     bottom: -10px;
     left: 50px;
     z-index: 100;
-    animation: car 4s 1s forwards, car1 2s 5s forwards;
+    
 }
 .giftbox img{
     width: 100%;
